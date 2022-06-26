@@ -1,4 +1,6 @@
-### Sudoku 
+##  EXP.NO:06
+## DATE :07.06.22
+# <p align="center">Sudoku 
 ## Aim:
 To develop a code to solve a given sudoku puzzle.
 
@@ -24,9 +26,12 @@ We reduce the puzzle using the two strategies.
 Search function is defined to find the final solution to a given sudoku puzzle.
 
 ## Program:
-## Developed By : Lishali R
-## Register Number : 212220230028
+
 ```python3
+    
+Developed By : Lishali R
+Register Number : 212220230028
+    
 %matplotlib inline
 import matplotlib.pyplot as plt
 import random
